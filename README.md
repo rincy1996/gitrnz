@@ -1,1 +1,2 @@
 # gitrnz
+my new repository
